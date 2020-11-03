@@ -26,8 +26,8 @@ Estudar e praticar com as tecnologias do Javascript e com foco principal no Dese
 - Disponivel para oportunidades de **Desenvolvedor Front End JR**
 
 ---
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?rafrausino=anuraghazra&theme=gruvbox&show_icons=true)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?rafrausino=anuraghazratheme=gruvbox&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?rafrausino=anuraghazra&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?rafrausino=anuraghazra&theme=gruvbox&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rafrausino/rafrausino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
