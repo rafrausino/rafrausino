@@ -1,7 +1,10 @@
 ### Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Renan_Afrausino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-afrausino/)](https://www.linkedin.com/in/renan-afrausino/)
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renan.afrausino@gmail.com)](mailto:renan.afrausino@gmail.com)
-[![GitHub rafrausino](https://img.shields.io/github/followers/rafrausino?label=follow&style=social)](https://github.com/rafrausino)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=Renan_Afrausino&logoColor=white&link=https://www.linkedin.com/in/renan-afrausino/)](https://www.linkedin.com/in/renan-afrausino/)
+
+[![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:renan.afrausino@gmail.com)](mailto:renan.afrausino@gmail.com)
+[![GitHub rafrausino](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=rafrausino&logoColor=white)](https://github.com/rafrausino)
+
+
 <!--
 **rafrausino/rafrausino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
