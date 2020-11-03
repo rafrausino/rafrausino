@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Renan_Afrausino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/renan-afrausino//)]
+[![Linkedin Badge](https://img.shields.io/badge/-Renan_Afrausino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-afrausino/)](https://www.linkedin.com/in/renan-afrausino/)
 
 <!--
 **rafrausino/rafrausino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
