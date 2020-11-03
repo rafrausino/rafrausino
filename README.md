@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Renan_Afrausino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-afrausino/)](https://www.linkedin.com/in/renan-afrausino/)
-
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renan.afrausino@gmail.com)](mailto:renan.afrausino@gmail.com)
+![GitHub followers](https://img.shields.io/github/followers/rafrausino?style=social)
 <!--
 **rafrausino/rafrausino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
