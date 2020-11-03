@@ -27,8 +27,7 @@ Estudar e praticar com as tecnologias do Javascript e com foco principal no Dese
 
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafrausino&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rafrausino&theme=gruvbox&repo=github-readme-stats)](https://github.com/rafrausino/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafrausino)](https://github.com/rafrausino/github-readme-stats)
 <!--
 **rafrausino/rafrausino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
