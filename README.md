@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Renan_Afrausino-linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-afrausino/)](https://www.linkedin.com/in/renan-afrausino/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-afrausino/)](https://www.linkedin.com/in/renan-afrausino/)
 [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:renan.afrausino@gmail.com)](mailto:renan.afrausino@gmail.com)
 [![GitHub rafrausino](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=rafrausino&logoColor=white)](https://github.com/rafrausino)
 
