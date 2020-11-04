@@ -3,7 +3,7 @@
 [![GitHub rafrausino](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=rafrausino&logoColor=white)](https://github.com/rafrausino)
 
 Olá, sou portador de deficência auditiva. Comprometido em me aperfeiçoar. Atualmente, estou procurando me especializar em desenvolvimento Front-End. Trabalho como analista de qualidade (QA), entranto, desejo cada vez mais adentrar à área de programação, especificamente como desenvolvedor Front-End ou Fullstack.
-Procuro um sempre manter um aprendizado contínuo, me desafiando e evoluindo, a despeito da minha limitação física. Recentemente iniciei o estudo de desenvolvimento Web com foco em Front-End pela **[ImaginEschool](https://imagineschool.com.br/)** & **[Bootcamp Rocketseat](https://pages.rocketseat.com.br/gostack)** & **[Bootcamp IGTI](https://www.igti.com.br/)**
+Procuro um sempre manter um aprendizado contínuo, me desafiando e evoluindo, a despeito da minha limitação física. Recentemente iniciei o estudo de desenvolvimento Web com foco em Front-End pela **[ImagineSchool](https://imagineschool.com.br/)** & **[Bootcamp Rocketseat](https://pages.rocketseat.com.br/gostack)** & **[Bootcamp IGTI](https://www.igti.com.br/)**
 
 ---
 
